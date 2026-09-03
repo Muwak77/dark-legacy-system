@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.14
+
+- Housekeeping erkennt Systempfade nun korrekt und verwechselt deren `assets/`-Anteil nicht mehr mit Weltpfaden.
+- Korrigierte Systembildpfade werden absolut gespeichert, damit sie sich in Journalen nicht mehrfach relativ auflösen.
+
 ## 0.3.13
 
 - Der globale Bildpfad-Fix prüft nun den ausgewählten Ersatzpfad, speichert Änderungen nacheinander und verifiziert anschließend, dass keine alten Verweise übrig sind.
