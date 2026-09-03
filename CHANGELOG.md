@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.21
+
+- Die Anwesenheitsliste in Standortbögen ist dreispaltig und füllt sich spaltenweise von oben nach unten.
+- Behälter-, Fahrzeug- und Immobilienbögen zeigen den Standort im Ansichtsmodus nur als Text; die Auswahl bleibt dem SL-Bearbeitungsmodus vorbehalten.
+
 ## 0.3.20
 
 - Neu: Standorte sind eigene Sidebar-Items mit öffentlicher Beschreibung, SL-Information, Standardicon, eigenem Hintergrund und einer dynamischen Anwesenheitsliste.
