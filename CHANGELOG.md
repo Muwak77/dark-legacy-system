@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.10
+
+- Housekeeping zeigt bei defekten Bildverweisen jetzt das genaue betroffene Datenfeld und kann ein Ersatzbild hochladen sowie den Verweis direkt aktualisieren.
+- Für nicht verwendete Weltdateien erzeugt Housekeeping ein Linux-Shell-Skript, das die aufgelisteten Dateien nach `unused/` verschiebt und die Ordnerstruktur beibehält.
+- Die Suche nach ungenutzten Dateien berücksichtigt nun auch Audio-, Video- und PDF-Dateien.
+
 ## 0.3.9
 
 - Die Spielleiterwerkzeuge enthalten jetzt „Housekeeping“: Es findet defekte Bildverweise und öffnet die betroffenen Entitäten direkt; Journale werden dabei im Bearbeitungsmodus geöffnet.
