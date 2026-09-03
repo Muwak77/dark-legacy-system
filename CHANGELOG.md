@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.23
+
+- Standortbögen zeigen Anwesende in zwei Reihen mit horizontaler Navigation; berechtigte Nutzer können einen Akteur direkt über seine Kachel öffnen.
+- Neue Statusanzeige oben mittig: Spieldatum, eigener Charakter und Standort. Die Spielleitung stellt Datum und Uhrzeit direkt dort ein und kann sie um Stunden oder Tage verschieben.
+
 ## 0.3.22
 
 - Die Kacheln der Anwesenheitsliste in Standortbögen sind höher; Portraits sitzen linksbündig und vollständig sichtbar.
