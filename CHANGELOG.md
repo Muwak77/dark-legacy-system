@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.27
+
+- Akteure in der Anwesenheitsliste eines Standorts können bereits mit Limited-Berechtigung geöffnet werden.
+- Spielleiter können Dunkle Erbschaften im Erbebogen nach Bestätigung löschen.
+
 ## 0.3.26
 
 - Die Anwesenheitsliste eines Standorts ist dreispaltig und vertikal scrollbar.
