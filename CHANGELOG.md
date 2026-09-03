@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.25
+
+- Spielleiter können das Icon eines Standorts direkt im Standortbogen per Bildauswahl ändern.
+- Das Beschreibungsfeld von Standorten ist doppelt so hoch; der Standortbogen wurde entsprechend vergrößert.
+
 ## 0.3.24
 
 - Charakter und Standort in der Statusanzeige öffnen bei vorhandener Berechtigung direkt den jeweiligen Bogen.
