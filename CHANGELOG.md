@@ -2,6 +2,13 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.18
+
+- Der Antrag für ein Dunkles Erbe ist klarer gestaltet: Pergamenthintergrund, Felder unter ihren Beschriftungen und ein erklärender Regeltext.
+- Der Dunkles-Erbe-Gegenstandsbogen wurde am Stil der Fertigkeitenbögen ausgerichtet, mit einem eigenen okkulten Pergamenthintergrund, kompakten Textflächen und gut lesbaren Beschriftungen.
+- Der Freigabe-Button einer Erbe-Anfrage wird ausschließlich der Spielleitung im Chat angezeigt.
+- Spielleitungen können Erbschaften direkt vom Charakterbogen aus öffnen und die Zustände „Verwendet“ sowie „Abgeschlossen“ jederzeit aktivieren oder zurücksetzen.
+
 ## 0.3.17
 
 - Neu: „Dunkles Erbe“ als eigener, nicht-inventarisierter Gegenstandstyp mit Spielerantrag, SL-Freigabe, SL-Informationen sowie den Zuständen „Verwendet“ und „Abgeschlossen“.
