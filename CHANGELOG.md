@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.22
+
+- Die Kacheln der Anwesenheitsliste in Standortbögen sind höher; Portraits sitzen linksbündig und vollständig sichtbar.
+
 ## 0.3.21
 
 - Die Anwesenheitsliste in Standortbögen ist dreispaltig und füllt sich spaltenweise von oben nach unten.
