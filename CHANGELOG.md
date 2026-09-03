@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.16
+
+- Die Spielleiterfunktionen erscheinen jetzt Foundry-konform als eigene Werkzeuge in der Szenen-Steuerleiste.
+- Housekeeping kann referenzierte PNG- und JPEG-Bilder nach WebP konvertieren, die Verweise aktualisieren und die Originaldateien behalten.
+- Housekeeping findet auffällige Bilddateinamen und zeigt bereinigte Umbenennungsvorschläge.
+
 ## 0.3.15
 
 - Überschriften in Richtextfeldern werden auf den hellen Inhaltsflächen dunkel und gut lesbar dargestellt.
