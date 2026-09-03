@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.19
+
+- Die SL-Übersicht für Dunkle Erbschaften zeigt eine verlinkte Tabelle mit Erbe, Charakter sowie den Zuständen „Verwendet“ und „Abgeschlossen“.
+- Standardmäßig werden verwendete, noch nicht abgeschlossene Erbschaften gezeigt. Filter am oberen Rand können unverwendete und abgeschlossene Erbschaften einblenden.
+
 ## 0.3.18
 
 - Der Antrag für ein Dunkles Erbe ist klarer gestaltet: Pergamenthintergrund, Felder unter ihren Beschriftungen und ein erklärender Regeltext.
