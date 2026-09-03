@@ -2,11 +2,19 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.17
+
+- Neu: „Dunkles Erbe“ als eigener, nicht-inventarisierter Gegenstandstyp mit Spielerantrag, SL-Freigabe, SL-Informationen sowie den Zuständen „Verwendet“ und „Abgeschlossen“.
+- Der neue Charakterbogen-Reiter erlaubt das einmalige Heilen einer Wunde oder eines Wahnsinnspunkts; die Verwendung wird im Chat protokolliert.
+- Die Szenen-Steuerleiste der Spielleitung enthält eine Übersicht aller noch aktiven Dunklen Erbschaften, nach Charakter sortiert.
+- Dunkle Erbschaften haben ein eigenes Icon und einen thematisch gestalteten Bogen. Die Bearbeitung ist auf die Spielleitung beschränkt.
+- Housekeeping prüft weiterhin Bildkonvertierungen, zeigt jedoch keine Vorschläge für auffällige Dateinamen mehr.
+- Housekeeping-Schaltflächen werden im Dialog zweispaltig dargestellt; Tabellenüberschriften sind auf dunklem Hintergrund lesbar.
+
 ## 0.3.16
 
 - Die Spielleiterfunktionen erscheinen jetzt Foundry-konform als eigene Werkzeuge in der Szenen-Steuerleiste.
 - Housekeeping kann referenzierte PNG- und JPEG-Bilder nach WebP konvertieren, die Verweise aktualisieren und die Originaldateien behalten.
-- Housekeeping findet auffällige Bilddateinamen und zeigt bereinigte Umbenennungsvorschläge.
 
 ## 0.3.15
 
