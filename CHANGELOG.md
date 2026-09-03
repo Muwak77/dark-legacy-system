@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.28
+
+- Standortlinks öffnen Akteure auch bei Klick auf Portrait oder Namen zuverlässig und prüfen Limited-Rechte über Foundrys Berechtigungslogik.
+
 ## 0.3.27
 
 - Akteure in der Anwesenheitsliste eines Standorts können bereits mit Limited-Berechtigung geöffnet werden.
