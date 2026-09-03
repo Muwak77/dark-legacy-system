@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.11
+
+- Housekeeping kann einen defekten Bildpfad jetzt mit einem ausgewählten vorhandenen Bildpfad ersetzen und aktualisiert dabei alle identischen Verweise in der Welt auf einmal.
+
 ## 0.3.10
 
 - Housekeeping zeigt bei defekten Bildverweisen jetzt das genaue betroffene Datenfeld und kann ein Ersatzbild hochladen sowie den Verweis direkt aktualisieren.
