@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.26
+
+- Die Anwesenheitsliste eines Standorts ist dreispaltig und vertikal scrollbar.
+- Ein Rechtsklick auf das Kopf-Icon eines Itembogens öffnet die Bildvorschau in einem eigenen Foundry-Fenster.
+
 ## 0.3.25
 
 - Spielleiter können das Icon eines Standorts direkt im Standortbogen per Bildauswahl ändern.
