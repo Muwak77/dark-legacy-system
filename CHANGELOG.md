@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.12
+
+- Housekeeping prüft Bildpfade nun über den Foundry-Dateibrowser und protokolliert ausführliche Diagnoseinformationen in der Konsole.
+- Die Auswahl eines Ersatzbilds startet im Weltordner, auch wenn der alte Bildordner nicht mehr existiert.
+- Nach dem Ausführen eines Spielleiterwerkzeugs öffnet sich das Dark-Legacy-Menü erneut.
+
 ## 0.3.11
 
 - Housekeeping kann einen defekten Bildpfad jetzt mit einem ausgewählten vorhandenen Bildpfad ersetzen und aktualisiert dabei alle identischen Verweise in der Welt auf einmal.
