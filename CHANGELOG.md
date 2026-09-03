@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.13
+
+- Der globale Bildpfad-Fix prüft nun den ausgewählten Ersatzpfad, speichert Änderungen nacheinander und verifiziert anschließend, dass keine alten Verweise übrig sind.
+- Erfolgs- und Fehlermeldungen des globalen Fixes enthalten detailliertere Diagnosen für die Browser-Konsole.
+
 ## 0.3.12
 
 - Housekeeping prüft Bildpfade nun über den Foundry-Dateibrowser und protokolliert ausführliche Diagnoseinformationen in der Konsole.
