@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.15
+
+- Überschriften in Richtextfeldern werden auf den hellen Inhaltsflächen dunkel und gut lesbar dargestellt.
+- Housekeeping entfernt erfolgreich korrigierte Bildpfad-Treffer sofort aus der offenen Ergebnisliste und aktualisiert die Anzahl.
+
 ## 0.3.14
 
 - Housekeeping erkennt Systempfade nun korrekt und verwechselt deren `assets/`-Anteil nicht mehr mit Weltpfaden.
