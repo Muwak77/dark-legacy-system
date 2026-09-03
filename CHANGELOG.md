@@ -2,6 +2,14 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.20
+
+- Neu: Standorte sind eigene Sidebar-Items mit öffentlicher Beschreibung, SL-Information, Standardicon, eigenem Hintergrund und einer dynamischen Anwesenheitsliste.
+- Die Spielleitung kann SC und zugeordnete Fahrzeuge über das neue Standortwerkzeug gemeinsam bewegen; Fahrzeugpassagiere ziehen automatisch mit.
+- Im ortsgebundenen Modus sind normale Inventartransfers nur am selben Standort möglich. Akteure ohne Standort sind nicht erreichbar; die SL bleibt uneingeschränkt.
+- Standortnamen sind eindeutig. Beim Löschen eines Standort-Items wird der Standort bei allen betroffenen Akteuren entfernt.
+- Vorhandene Standortdaten werden beim nächsten Start automatisch zu Standort-Items migriert.
+
 ## 0.3.19
 
 - Die SL-Übersicht für Dunkle Erbschaften zeigt eine verlinkte Tabelle mit Erbe, Charakter sowie den Zuständen „Verwendet“ und „Abgeschlossen“.
