@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.24
+
+- Charakter und Standort in der Statusanzeige öffnen bei vorhandener Berechtigung direkt den jeweiligen Bogen.
+- Neu über das Standortwerkzeug erstellte Standorte erhalten ausdrücklich Beobachterrechte für alle Spieler.
+
 ## 0.3.23
 
 - Standortbögen zeigen Anwesende in zwei Reihen mit horizontaler Navigation; berechtigte Nutzer können einen Akteur direkt über seine Kachel öffnen.
