@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.34
+
+- Charakterübersicht: verlinkte Namen und Standorte verwenden nun die gleiche kontrastreiche Schriftfarbe wie die Tabelle der Dunklen Erbschaften.
+- Standortbögen sind bei kleinen Bildschirmen scrollbar, sodass untere Inhalte nicht mehr abgeschnitten werden.
+
 ## 0.3.33
 
 - Die Charakterübersicht aktualisiert Zustände und Standort live. Wunden und Wahnsinn erscheinen als kompakte Zustands-Icons.
