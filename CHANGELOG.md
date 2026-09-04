@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.30
+
+- Standortwerkzeug: Fahrzeuge werden vor Personen gezeigt; kompakte Schaltflächen wählen Fahrzeuge, Personen oder alles gemeinsam aus beziehungsweise ab. Der Dialog heißt nun „Standorte“.
+- Standorte besitzen die Erreichbarkeit „Offen“, „Genehmigen“ oder „Geschlossen“.
+- Über den Pfeil neben dem Standort in der Statusanzeige können Charaktere reisen. Genehmigungspflichtige Ziele senden eine private Anfrage an die Spielleitung; Fahrzeug und Insassen können gemeinsam mitreisen. Erfolgreiche Reisen werden im Chat protokolliert.
+
 ## 0.3.29
 
 - Anwesenheitskacheln in Standortbögen sind für Spieler nun echte Links statt deaktivierter Formular-Schaltflächen.
