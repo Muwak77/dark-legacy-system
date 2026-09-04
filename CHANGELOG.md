@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.31
+
+- Reisen von Spielern werden nun immer als persistente SL-Aufträge ausgeführt. Offene Ziele werden automatisch von der ersten aktiven Spielleitung abgearbeitet; genehmigungspflichtige Reisen warten auf deren Bestätigung. Dadurch werden auch Fahrzeuge und Insassen ausschließlich mit den nötigen SL-Rechten bewegt.
+
 ## 0.3.30
 
 - Standortwerkzeug: Fahrzeuge werden vor Personen gezeigt; kompakte Schaltflächen wählen Fahrzeuge, Personen oder alles gemeinsam aus beziehungsweise ab. Der Dialog heißt nun „Standorte“.
