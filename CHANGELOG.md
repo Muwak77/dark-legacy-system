@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.36
+
+- Die Anwesenheits-Schaltflächen in Standortbögen rufen ihren Öffnungs-Handler wieder korrekt auf.
+
 ## 0.3.35
 
 - Akteure in der Anwesenheitsliste eines Standorts sind nun Schaltflächen statt Links und öffnen bei ausreichenden Rechten direkt ihren Actor-Bogen.
