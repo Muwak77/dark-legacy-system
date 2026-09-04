@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.29
+
+- Anwesenheitskacheln in Standortbögen sind für Spieler nun echte Links statt deaktivierter Formular-Schaltflächen.
+- Der Charakterbogen kann für Nutzer mit Limited-Berechtigung in seiner eingeschränkten Ansicht geöffnet werden.
+
 ## 0.3.28
 
 - Standortlinks öffnen Akteure auch bei Klick auf Portrait oder Namen zuverlässig und prüfen Limited-Rechte über Foundrys Berechtigungslogik.
