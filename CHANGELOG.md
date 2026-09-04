@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.37
+
+- Standortbögen überlassen beim Öffnen anwesender Akteure die Zugriffsprüfung wieder Foundry, sodass Spieler ihren eigenen Charakter zuverlässig öffnen können.
+
 ## 0.3.36
 
 - Die Anwesenheits-Schaltflächen in Standortbögen rufen ihren Öffnungs-Handler wieder korrekt auf.
