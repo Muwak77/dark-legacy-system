@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.38
+
+- In schreibgeschützten Standortbögen bleiben die Anwesenheits-Schaltflächen aktiv. Spieler können dadurch berechtigte Actor-Bögen wieder öffnen; Standortfelder selbst bleiben gesperrt.
+
 ## 0.3.37
 
 - Standortbögen überlassen beim Öffnen anwesender Akteure die Zugriffsprüfung wieder Foundry, sodass Spieler ihren eigenen Charakter zuverlässig öffnen können.
