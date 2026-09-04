@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.33
+
+- Die Charakterübersicht aktualisiert Zustände und Standort live. Wunden und Wahnsinn erscheinen als kompakte Zustands-Icons.
+- Die Charakterübersicht hat einen eigenen Charakterakten-Hintergrund im Stil der Dunklen Erbschaften; die Einleitungsbox entfällt.
+- Der Standortdialog zeigt die Transfer-Schaltfläche auch auf niedrigen Bildschirmen zuverlässig. Die Einstellung für den freien Transfermodus bleibt beim Schließen erhalten.
+
 ## 0.3.32
 
 - Neues SL-Werkzeug „Charakterübersicht“ mit den aktuellen Hauptcharakteren der Spieler, ihren Zuständen und verlinkten Standorten.
