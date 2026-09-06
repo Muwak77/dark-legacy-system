@@ -2,6 +2,13 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.41
+
+- Standorte können optionale Angaben zu Adresse, Fläche und Telefonnummer anzeigen. Der Bereich bleibt ohne eingetragene Werte unsichtbar.
+- Der Behältermodus „Immobilie“ wurde entfernt; bestehende Immobilien werden beim nächsten Start der Spielleitung automatisch zu Behältern migriert.
+- Der Charakterreiter heißt nun „Fahrzeuge/Behälter“.
+- Fehlende englische Übersetzungen der Standortansicht wurden ergänzt; Standortangaben sind in der Spieleransicht besser lesbar.
+
 ## 0.3.40
 
 - Das SL-Standorttool zeigt hinter jedem Akteur dessen aktuellen Standort als anklickbaren Link.
