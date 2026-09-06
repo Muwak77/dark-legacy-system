@@ -2,6 +2,15 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.39
+
+- Standortbögen besitzen einen großen, standardmäßig geöffneten Kartenreiter mit eigenem Kartenbild, Parent-Hierarchie und persistent verschiebbaren Markern.
+- Kartenmarker berücksichtigen Spielerberechtigungen, markieren den eigenen aktuellen Standort live und bieten direkt Aktionen zum Ansehen und Reisen an. Karten und Standortlisten reagieren auf externe Änderungen und Standortwechsel.
+- Standorte ohne Kartenbild zeigen ihre sichtbaren untergeordneten Standorte als Liste. Parentstandorte können angesehen oder als Reiseziel gewählt werden.
+- Das SL-Standorttool kann beim spontanen Anlegen einen Parent setzen. Ein konfigurierbarer Item-Ordner bestimmt, wo neue Standorte angelegt werden; beim erstmaligen Betreten erhalten Spieler Beobachterrechte.
+- Reisen zeigen Spielern nur berechtigte Ziele. Besitzer eines bewegten Charakters erhalten den neuen Standortbogen automatisch geöffnet.
+- Einsteigen in Fahrzeuge setzt denselben Standort voraus. Fahrzeuge können nur vom Fahrersitz aus mitgenommen werden; zurückbleibende Insassen werden nach Bestätigung automatisch aus dem Fahrzeug entfernt.
+
 ## 0.3.38
 
 - In schreibgeschützten Standortbögen bleiben die Anwesenheits-Schaltflächen aktiv. Spieler können dadurch berechtigte Actor-Bögen wieder öffnen; Standortfelder selbst bleiben gesperrt.
