@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.42
+
+- Erreichbarkeit gilt beim Reisen nun sowohl für den Start- als auch für den Zielstandort: Geschlossene Standorte können nicht verlassen werden; genehmigungspflichtige Abreisen benötigen eine SL-Freigabe.
+
 ## 0.3.41
 
 - Standorte können optionale Angaben zu Adresse, Fläche und Telefonnummer anzeigen. Der Bereich bleibt ohne eingetragene Werte unsichtbar.
