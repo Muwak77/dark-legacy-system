@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.40
+
+- Das SL-Standorttool zeigt hinter jedem Akteur dessen aktuellen Standort als anklickbaren Link.
+- Standortbögen ohne Kartenbild öffnen standardmäßig den Reiter „Allgemein“; die Parentangabe im Kartenreiter heißt nun „Lage“.
+- Buchbögen sind scrollbar und bieten deutlich größere Bereiche zum Lesen und Bearbeiten längerer Texte.
+
 ## 0.3.39
 
 - Standortbögen besitzen einen großen, standardmäßig geöffneten Kartenreiter mit eigenem Kartenbild, Parent-Hierarchie und persistent verschiebbaren Markern.
