@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.43
+
+- Freie Fahrzeugsitze erhöhen die verfügbare Lagerkapazität um jeweils 75 % des Basisvolumens. Bei großer Ladung werden benötigte Sitze ausgegraut und können nicht belegt werden.
+
 ## 0.3.42
 
 - Erreichbarkeit gilt beim Reisen nun sowohl für den Start- als auch für den Zielstandort: Geschlossene Standorte können nicht verlassen werden; genehmigungspflichtige Abreisen benötigen eine SL-Freigabe.
