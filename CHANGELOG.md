@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.45
+
+- Charaktere dürfen ihr persönliches Volumenlimit überschreiten, können dann jedoch keine Skilleinsätze mehr nutzen und nicht reisen. Fahrzeuge und Behälter behalten ihre harte Kapazitätsgrenze.
+
 ## 0.3.44
 
 - Fahrzeuge besitzen nun eine frei konfigurierbare Zusatzkapazität pro freiem Sitz. Bestehende Fahrzeuge übernehmen beim ersten Start ihren bisherigen Wert von 75 % des Basisvolumens.
