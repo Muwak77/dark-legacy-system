@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.44
+
+- Fahrzeuge besitzen nun eine frei konfigurierbare Zusatzkapazität pro freiem Sitz. Bestehende Fahrzeuge übernehmen beim ersten Start ihren bisherigen Wert von 75 % des Basisvolumens.
+
 ## 0.3.43
 
 - Freie Fahrzeugsitze erhöhen die verfügbare Lagerkapazität um jeweils 75 % des Basisvolumens. Bei großer Ladung werden benötigte Sitze ausgegraut und können nicht belegt werden.
