@@ -2,6 +2,17 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.52
+
+- Galerien von Standorten, Büchern und Dokumenten verwalten Bilder und PDFs nun zuverlässig, ohne neue Einträge mit zuvor verwendeten Bildern zu befüllen oder bestehende Einträge unbeabsichtigt zu überschreiben.
+- Die Spielleitung kann Inventargegenstände per Drag-and-drop direkt zwischen Charakter- und Behälterbögen sowie in die Sidebar verschieben beziehungsweise kopieren. Für Spieler ist Drag-and-drop deaktiviert; die normale Transferfunktion bleibt für die Spielleitung erhalten.
+- Neues SL-Werkzeug „Skills aktualisieren“: Skilldaten lassen sich anhand des eindeutigen Schlüssels aus einem Skillset aktualisieren und ergänzen, während vorhandene Werte erhalten bleiben. Einzelne Skills können systemweit von allen Akteuren entfernt werden.
+- Das deutsche Fertigkeitskompendium wurde aktualisiert.
+- Charakterbögen sind frei skalierbar; bei NSCs und Monstern wird der Reiter „Dunkles Erbe“ ausgeblendet.
+- Beantragte Dunkle Erbschaften werden als nur für die Spielleitung sichtbarer Entwurf angelegt. Die Spielleitung kann sie vor der Freigabe ansehen, veröffentlichen, wieder verbergen oder ablehnen.
+- Bei Standortwechseln werden Zugriffsrechte nun vor dem Öffnen des Zielorts gesetzt, sodass keine irreführende Berechtigungsfehlermeldung mehr erscheint.
+- Datumsanzeigen zeigen die astronomisch berechnete Mondphase einschließlich Beleuchtungsgrad an.
+
 ## 0.3.51
 
 - Standortgalerien erscheinen im Bearbeitungsmodus nur noch einmal; in der Spieleransicht bleiben freigegebene Bilder und PDFs klickbar.
