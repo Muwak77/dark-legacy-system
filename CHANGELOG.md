@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.51
+
+- Standortgalerien erscheinen im Bearbeitungsmodus nur noch einmal; in der Spieleransicht bleiben freigegebene Bilder und PDFs klickbar.
+
 ## 0.3.50
 
 - Standorte besitzen jetzt eine Bildergalerie mit Bildern und PDFs. Die Spielleitung kann Einträge hinzufügen, ersetzen, löschen und individuell für Spieler freigeben.
