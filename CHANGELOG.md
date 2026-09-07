@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.49
+
+- Der aktuell eingestellte Elternstandort bleibt in der Standortauswahl sichtbar und ausgewählt, sodass er beim Ändern anderer Standortdaten nicht mehr entfernt wird.
+
 ## 0.3.48
 
 - Elternstandorte bleiben beim Ändern allgemeiner Standortdaten erhalten, auch bei älteren Standortdaten mit `parentId`-Referenz.
