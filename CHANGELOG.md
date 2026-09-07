@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.48
+
+- Elternstandorte bleiben beim Ändern allgemeiner Standortdaten erhalten, auch bei älteren Standortdaten mit `parentId`-Referenz.
+
 ## 0.3.47
 
 - Das Seitenverhältnis der Karte im Standortdialog bleibt beim Skalieren erhalten.
