@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.47
+
+- Das Seitenverhältnis der Karte im Standortdialog bleibt beim Skalieren erhalten.
+
 ## 0.3.46
 
 - Standort-Itemdialoge können nun vom Benutzer in ihrer Größe verändert werden.
