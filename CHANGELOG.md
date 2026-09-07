@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.46
+
+- Standort-Itemdialoge können nun vom Benutzer in ihrer Größe verändert werden.
+
 ## 0.3.45
 
 - Charaktere dürfen ihr persönliches Volumenlimit überschreiten, können dann jedoch keine Skilleinsätze mehr nutzen und nicht reisen. Fahrzeuge und Behälter behalten ihre harte Kapazitätsgrenze.
