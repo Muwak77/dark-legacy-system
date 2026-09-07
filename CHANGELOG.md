@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.50
+
+- Standorte besitzen jetzt eine Bildergalerie mit Bildern und PDFs. Die Spielleitung kann Einträge hinzufügen, ersetzen, löschen und individuell für Spieler freigeben.
+- Die Spielleitung kann Standortbögen zwischen Bearbeitungs- und Spieleransicht umschalten.
+
 ## 0.3.49
 
 - Der aktuell eingestellte Elternstandort bleibt in der Standortauswahl sichtbar und ausgewählt, sodass er beim Ändern anderer Standortdaten nicht mehr entfernt wird.
