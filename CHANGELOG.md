@@ -2,6 +2,17 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.57
+
+- Charakterbilder im Charaktergenerator sind optional; ohne Upload-Berechtigung wird die Bildauswahl ausgeblendet.
+- Wetter-Tooltips erscheinen auch über Symbol und Temperatur. Region, Jahreszeit und Temperatur werden kompakt angezeigt; die Ereigniszeile erscheint nur bei aktivem Wetter.
+- Die ausgeschriebene Mondphase und der Beleuchtungsgrad erscheinen im Tooltip des Datums.
+- Die SL-Standortanzeige und ihre Dropdown-Einträge öffnen den jeweiligen Schauplatz. Das Dropdown zeigt jeden einem Spieler zugewiesenen SC einzeln, unabhängig vom Online-Status, mit fett hervorgehobenem Namen und linksbündiger Darstellung.
+- Starkregen und Orkan ergänzen die Wetterereignisse; Hitzewelle und Kälteeinbruch entfallen. Starkregen verwendet standardmäßig den Karteneffekt heavyrain; Nebel hat keinen Standard-Sound.
+- Wettersounds laufen bei allen Spielern in Endlosschleife und stoppen beim Ende des Ereignisses. Später beitretende Spieler hören das aktuelle Wetter ebenfalls.
+- Housekeeping ist über die Spieleinstellungen erreichbar. Die zusätzliche Anzeige in der Sidebar ist über eine standardmäßig deaktivierte Checkbox einschaltbar.
+- Neue Sounddateien für Wetter und Benachrichtigungen sind im Paket enthalten.
+
 ## 0.3.52
 
 - Galerien von Standorten, Büchern und Dokumenten verwalten Bilder und PDFs nun zuverlässig, ohne neue Einträge mit zuvor verwendeten Bildern zu befüllen oder bestehende Einträge unbeabsichtigt zu überschreiben.
