@@ -2,6 +2,18 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.58
+
+- Die Kampf-Comfortbar zeigt die nächsten fünf Teilnehmer mit Charakterportraits, AP-Anzeige und SL-Steuerung; fehlende Initiative lässt sich direkt über ein Würfelsymbol nachholen.
+- Fremde Tokens lassen sich per Klick als Ziel wählen. Im Kampf werden Angriffe ohne eindeutiges Ziel oder außerhalb der Waffenreichweite verhindert.
+- Monsterbögen verwenden einen eigenen hochformatigen, flächendeckenden Hintergrund und blenden unpassende Personen-, Fahrzeug- und Behälterfelder aus.
+- Waffen aus dem Gegenstandskompendium verwenden nach Gewichtsklasse 4, 5 oder 6 AP. Das neue Housekeeping-Werkzeug „Items migrieren“ gleicht Welt- und Inventaritems anhand ihres Namens mit dem Kompendium ab, ohne Menge oder aktuelle Munition zu verändern.
+- Automatische Laufzeitmigrationen der Gegenstandsmodelle wurden entfernt, damit Teilaktualisierungen keine vorhandenen Werte mehr durch Standardwerte ersetzen.
+- An- und Ablegen von Rüstung sind strikt getrennte Aktionen. Bei fehlenden AP werden sie langfristig ausgeführt und ändern den Ausrüstungszustand erst nach Abschluss.
+- Artefakte zeigen keine Herkunft, Aktivierung oder Ladungsfelder mehr.
+- Die manuellen Integrationsprüfungen wurden aus dem Regelwerk in eine eigene Checkliste verschoben.
+- Kampfaktionen prüfen Berechtigungen auch in der Ausführungsschicht; nur die SL kann langfristige Aktionen abbrechen.
+
 ## 0.3.57
 
 - Charakterbilder im Charaktergenerator sind optional; ohne Upload-Berechtigung wird die Bildauswahl ausgeblendet.
