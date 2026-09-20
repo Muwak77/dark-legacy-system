@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.69
+
+- Studien in Büchern zeigen beschriftete Felder für Fertigkeit, Zeitdauer, Stabilitätsverlust und Poolpunkte.
+
 ## 0.3.68
 
 - Bücher besitzen keine Aktionspunkte mehr und können nur außerhalb eines laufenden Kampfes benutzt werden.
