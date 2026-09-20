@@ -2,6 +2,37 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.66
+
+- Schmuck verwendet nun einen eigenen, reduzierten und nicht stapelbaren Gegenstandsbogen mit eigenem Standardicon und Hintergrund; er enthält nur Name, Bild, Beschreibung und die Anlegefunktion. Schmuck und Rüstung verwenden einheitliche, zustandsabhängige Symbole und eindeutige Anlegen-/Ablegen-Beschriftungen.
+- Taschen besitzen keine pauschalen Aktionspunktkosten und keinen allgemeinen Benutzen-Button mehr; Kapazität und Inventartransfers bleiben davon unberührt.
+- Kleidung und Rüstung können nur noch angelegt oder abgelegt werden. Das Gewichtsfeld wurde aus allen Gegenständen entfernt; das Inventarsystem verwendet ausschließlich Volumen.
+- Die englische Lokalisierung wurde mit der deutschen Fassung vollständig abgeglichen und weitere fest eingebaute Oberflächentexte wurden lokalisiert.
+- Veraltete, nicht registrierte Regel- und Fertigkeitskompendien wurden entfernt; `skills-de` und `skills-en` bleiben als aktuelle Fertigkeitskompendien erhalten.
+- Dark-Legacy-Konsolenausgaben werden vollständig vom Debug-Schalter in den Systemeinstellungen gesteuert.
+- Buch-, Dokument- und Standortgalerien unterstützen jetzt auch Text-Handouts mit dem integrierten Foundry-Editor.
+- Sichtbare Handouts können allen gezeigt werden. Sie erscheinen sofort im bisherigen Handoutfenster und werden im gemeinsamen Ermittlungsarchiv gespeichert, das über die Statusleiste erreichbar ist.
+- Die SL kann versehentlich veröffentlichte Archiv-Einträge entfernen. Zeigt sie einen verborgenen Galerieeintrag, wird dieser zugleich für Spieler freigegeben und die SL erhält einen Hinweis.
+- Buch- und Dokumentbögen lassen sich in ihrer Größe verändern.
+- Gegenstände verwenden statt Dollarpreisen Wertstufen mit Münzanzeige. Finanzkraft berücksichtigt die gebundenen Wertstufen von Fahrzeugen und Immobilien.
+- Immobilien werden im Besitz-Reiter wie Fahrzeuge und Behälter mit Charakteren verknüpft.
+- Versorgungskisten können gestapelt, weitergegeben und über eine Spielleiteranfrage gegen passende Gegenstände eingelöst werden.
+- Bücher können pro Fertigkeit einmalig Poolpunkte gewähren; Autor, Erscheinungsjahr, Sprache und bisherige Leser werden auf dem Buchbogen verwaltet.
+- Munition kann passende Waffen aus sichtbaren Akteursinventaren, der Welt-Itemliste und Kompendien anzeigen.
+- Kleidung und Rüstung verwenden Tragezonen. Mehrere Kleidungsstücke können übereinander getragen werden, während pro Zone nur ein schützendes oder belastendes Teil aktiv sein darf.
+- Beim Stapeln von Gegenständen werden nur noch Einträge mit gleichem Bild zusammengeführt.
+
+## 0.3.59
+
+- Eine laufende langfristige Aktion wird abgebrochen, sobald der Teilnehmer erfolgreich eine andere Handlung ausführt. Blockierte Handlungsversuche lassen den Fortschritt bestehen; gezieltes Fortsetzen erhält die Aktion ebenfalls.
+- Bewegungskosten, Nervenstärke-SG, Stabilitätsverlust und eigene Trefferzonen von Monstern befinden sich nun im neuen Reiter „Regeln“.
+- Die Kampf-Comfortbar zeigt für einen angelegten Wurfgegenstand nun ein Bombensymbol anstelle des Fadenkreuzes.
+- Monster können im Reiter „Regeln“ für jede Schadensart Resistenz, Immunität oder Empfindlichkeit festlegen; gemischter Schaden wird komponentenweise angepasst, bevor Rüstung abgezogen wird.
+- Sämtliche Schadenspfade einschließlich Zaubern und manueller Schadenseingabe ziehen Rüstung nun einheitlich als letzten Rechenschritt ab; das Regelbuch beschreibt die Reihenfolge und Monsterreaktionen vollständig.
+- Das System enthält ein leeres Szenenkompendium für später hinzugefügte Szenen.
+- Der Regelreiter auf Monsterbögen ist zur besseren Abgrenzung halbtransparent beige hinterlegt.
+- Monster besitzen keine Wunden; beim Übergang auf 0 Gesundheit erhalten sie den Foundry-Status „Tot“ und für alle erscheint die Meldung, dass sie ausgeschaltet wurden.
+
 ## 0.3.58
 
 - Die Kampf-Comfortbar zeigt die nächsten fünf Teilnehmer mit Charakterportraits, AP-Anzeige und SL-Steuerung; fehlende Initiative lässt sich direkt über ein Würfelsymbol nachholen.
