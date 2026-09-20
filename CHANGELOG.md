@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.67
+
+- Buch-Fertigkeiten werden über die gleiche, nach Fertigkeitsschlüssel bereinigte Auswahl wie Waffen gewählt.
+- Der Sichtbarkeitswechsel und das Löschen funktionieren auch für Text-Handouts in allen Galerien.
+- Offene Ermittlungsarchive aktualisieren sich sofort, wenn die SL einen Eintrag entfernt.
+
 ## 0.3.66
 
 - Schmuck verwendet nun einen eigenen, reduzierten und nicht stapelbaren Gegenstandsbogen mit eigenem Standardicon und Hintergrund; er enthält nur Name, Bild, Beschreibung und die Anlegefunktion. Schmuck und Rüstung verwenden einheitliche, zustandsabhängige Symbole und eindeutige Anlegen-/Ablegen-Beschriftungen.
