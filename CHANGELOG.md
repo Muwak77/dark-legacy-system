@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.68
+
+- Bücher besitzen keine Aktionspunkte mehr und können nur außerhalb eines laufenden Kampfes benutzt werden.
+
 ## 0.3.67
 
 - Buch-Fertigkeiten werden über die gleiche, nach Fertigkeitsschlüssel bereinigte Auswahl wie Waffen gewählt.
