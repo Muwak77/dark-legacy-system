@@ -2,6 +2,14 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.73
+
+- Spieler können Nachrichten gezielt an andere Spieler oder die Spielleitung senden; Benachrichtigungstöne werden zuverlässig lokal abgespielt.
+- Waffenschaden wird für Spieler sicher über die aktive Spielleitung angewendet. Veraltete, nicht zuordenbare Standardmunition wird beim Update entladen.
+- Standorte bieten erweiterte Reiseabläufe mit einstellbarer Reisedauer, Ankunftshinweis und automatischer Dokumentation manueller Standortwechsel.
+- Das Housekeeping enthält ein Werkzeug, um Token-Einstellungen eines Charakters auf ausgewählte Charaktere oder ganze Gruppen zu übertragen.
+- Charakter-, Inventar- und Standortbögen sowie Handouts wurden weiter verbessert und lokalisiert.
+
 ## 0.3.69
 
 - Studien in Büchern zeigen beschriftete Felder für Fertigkeit, Zeitdauer, Stabilitätsverlust und Poolpunkte.
