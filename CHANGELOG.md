@@ -2,6 +2,12 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.78
+
+- Das neue Token-Studio erstellt aus einem positionierbaren quadratischen Charakterporträt automatisch ein rundes Token mit typabhängigem Rahmen und speichert beide Bilder in konfigurierbaren Weltordnern.
+- Aktiver Tokenizer bleibt beim Charakterbild der Standard; ohne Tokenizer öffnet das Token-Studio, mit Umschalt+Linksklick ist es immer erreichbar. Bildaktionen auf Charakter-, Item-, Container- und Fahrzeugbögen sind vereinheitlicht.
+- Housekeeping kann Token für SC, NSC und Monster stapelweise neu erzeugen und aktualisiert wahlweise auch bereits platzierte, nicht verknüpfte Szenen-Token. Das Token-Studio aktualisiert solche Szenen-Token automatisch.
+
 ## 0.3.77
 
 - Dunkle Erbschaften können von Spielern zuverlässig als Entwurf angelegt werden: Die Manifestdefinition behandelt die Texte nicht mehr als HTML- oder reine Spielleiterfelder.
