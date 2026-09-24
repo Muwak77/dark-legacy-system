@@ -2,6 +2,26 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.77
+
+- Dunkle Erbschaften können von Spielern zuverlässig als Entwurf angelegt werden: Die Manifestdefinition behandelt die Texte nicht mehr als HTML- oder reine Spielleiterfelder.
+- Der Bogen für Dunkle Erbschaften ist höher, bleibt bei kleinen Ansichten scrollbar und zeigt Spielleiterinformationen sowie Eigenschaften vollständig.
+- Auf dem Charakterbogen beginnt die Erbe-Liste oben; alle Aktionen stehen neben dem Titel in einer Zeile.
+
+## 0.3.76
+
+- Dunkle Erbschaften verwenden für Beschreibung und Spielleiterinfo einfache Textfelder. Spieler können ihre Entwürfe damit direkt auf dem eigenen Charakter anlegen; bis zur Freigabe bleiben sie sichtbar, aber deaktiviert.
+
+## 0.3.75
+
+- Das deutsche und englische Regelbuch erläutert nun den Freigabeprozess für Dunkle Erbschaften einschließlich des sichtbaren, deaktivierten Entwurfsstatus auf dem Charakterbogen.
+- Changelog, Regelbuch und Lokalisierungen wurden für die Freigabe-Härtung abgeglichen.
+
+## 0.3.74
+
+- Beantragte Dunkle Erbschaften erscheinen sofort auf dem eigenen Charakterbogen, bleiben bis zur Freigabe durch die Spielleitung jedoch deaktiviert und klar als ausstehend markiert.
+- Das Anlegen eines Dunklen Erbes meldet Spielern nun Erfolg oder Fehler eindeutig. Falls nur die Benachrichtigung der Spielleitung fehlschlägt, bleibt der angelegte Entwurf sichtbar erhalten.
+
 ## 0.3.73
 
 - Spieler können Nachrichten gezielt an andere Spieler oder die Spielleitung senden; Benachrichtigungstöne werden zuverlässig lokal abgespielt.
