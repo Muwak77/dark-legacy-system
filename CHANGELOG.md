@@ -2,6 +2,13 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.79
+
+- Kenntnisse werden unabhängig von Fertigkeiten erworben. Ihre Übersicht zeigt nur vorhandene Kategorien, alphabetisch sortiert; der Kaufdialog verwendet gruppierte Kacheln, Sternstufen und den Kenntnis-Hintergrund.
+- Beim Löschen einer Kenntnis kann die Spielleitung ihre Steigerungspunkte erstatten oder bewusst ohne Erstattung löschen.
+- Handwerk, Kunst und die bisherigen Sprachfertigkeiten wurden aus dem deutschen Skill-Kompendium und dem Skillset entfernt. Die Überführung führt Sprachfertigkeiten in passende Kenntnisse über und fasst bereits vorhandene Kenntnisse korrekt zusammen.
+- Das Ein- und Ausblenden nicht verfügbarer Fertigkeiten merkt sich die Wahl pro Charakter. Neue Steigerungspunkte blenden sie mitsamt Steigerungspfeilen wieder ein.
+
 ## 0.3.78
 
 - Das neue Token-Studio erstellt aus einem positionierbaren quadratischen Charakterporträt automatisch ein rundes Token mit typabhängigem Rahmen und speichert beide Bilder in konfigurierbaren Weltordnern.
