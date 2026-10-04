@@ -2,6 +2,10 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.81
+
+- Enthält den zusammengeführten Stand der Generator- und Kompetenzpflege-Änderungen aus `train`.
+
 ## 0.3.80
 
 - Verfolgungsjagden verwenden Hindernisse ausschließlich aus der Welt-Seitenleiste. Änderungen an diesen Items wirken sofort; gelöschte Hindernisse verschwinden aus der Jagd.
