@@ -2,9 +2,18 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.80
+
+- Verfolgungsjagden verwenden Hindernisse ausschließlich aus der Welt-Seitenleiste. Änderungen an diesen Items wirken sofort; gelöschte Hindernisse verschwinden aus der Jagd.
+- Hindernisse unterscheiden nun Fußgänger und Fahrzeuge, mit eigener Fertigkeit und frei wählbarer Zielgruppe. Die Vorlagen im Hinderniskompendium wurden entsprechend ergänzt.
+- Die Chase zeigt Bewegungsreichweiten als farbige Spur, kürzt bereits zurückgelegte Bahnfelder und verhindert Takedowns durch nicht bewältigte Hindernisse. Ausbrechen berücksichtigt die Geländetauglichkeit des Fahrzeugs.
+- Erfolgreiche Fahrzeug-Takedowns markieren das Ziel dauerhaft als unbrauchbar; die Markierung ist im Fahrzeugbogen wieder aufhebbar.
+- Der Charaktergenerator wurde flexibler und übersichtlicher: gleich große, skalierende Listen für Fertigkeiten und Kenntnisse, Kategorien, Suche, klarere Navigation und zuverlässige Abschlussprüfung.
+- Die Vergabe von Steigerungspunkten kann unzugewiesene SC und NSC einbeziehen; die Empfängerliste bleibt scrollbar, während die Aktionen sichtbar bleiben.
+
 ## 0.3.79
 
-- Kenntnisse werden unabhängig von Fertigkeiten erworben. Ihre Übersicht zeigt nur vorhandene Kategorien, alphabetisch sortiert; der Kaufdialog verwendet gruppierte Kacheln, Sternstufen und den Kenntnis-Hintergrund.
+- Kenntnisse werden unabhängig von Fertigkeiten erworben. Sie sind entweder vorhanden oder nicht vorhanden, kosten jeweils einen Steigerungspunkt und haben keine Stufen oder Sterne.
 - Beim Löschen einer Kenntnis kann die Spielleitung ihre Steigerungspunkte erstatten oder bewusst ohne Erstattung löschen.
 - Handwerk, Kunst und die bisherigen Sprachfertigkeiten wurden aus dem deutschen Skill-Kompendium und dem Skillset entfernt. Die Überführung führt Sprachfertigkeiten in passende Kenntnisse über und fasst bereits vorhandene Kenntnisse korrekt zusammen.
 - Das Ein- und Ausblenden nicht verfügbarer Fertigkeiten merkt sich die Wahl pro Charakter. Neue Steigerungspunkte blenden sie mitsamt Steigerungspfeilen wieder ein.
