@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.82
+
+- Spieler können keine Kompendiums-Items direkt auf Charaktere ziehen; für die Spielleitung bleibt der Import erlaubt.
+- Kauf und Migration von Kenntnissen verwenden ausschließlich Kenntnisse aus der Welt-Seitenleiste.
+
 ## 0.3.81
 
 - Enthält den zusammengeführten Stand der Generator- und Kompetenzpflege-Änderungen aus `train`.
