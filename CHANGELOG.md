@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.83
+
+- Die Charaktererschaffung trennt Fertigkeiten und Kenntnisse in zwei Schritte; Zuweisungen bleiben beim Wechsel erhalten.
+- Nicht bezahlbare Kenntnisse sind im Kaufdialog deaktiviert. Bei 0 Steigerungspunkten wird der Kauf-Button nicht angezeigt.
+
 ## 0.3.82
 
 - Spieler können keine Kompendiums-Items direkt auf Charaktere ziehen; für die Spielleitung bleibt der Import erlaubt.
