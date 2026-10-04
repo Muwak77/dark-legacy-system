@@ -2,6 +2,11 @@
 
 Alle wichtigen Änderungen an Dark Legacy werden in diesem Dokument festgehalten.
 
+## 0.3.84
+
+- Kenntnisse auf Charakterbögen zeigen Beschreibungen per Tooltip.
+- „Skilldaten aktualisieren“ übernimmt Beschreibungen passender Kenntnisse aus dem ausgewählten Fertigkeitenset.
+
 ## 0.3.83
 
 - Die Charaktererschaffung trennt Fertigkeiten und Kenntnisse in zwei Schritte; Zuweisungen bleiben beim Wechsel erhalten.
